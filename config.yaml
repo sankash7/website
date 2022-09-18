@@ -5,7 +5,7 @@ theme: forty
 googleAnalytics: ''
 disqusShortname: ''
 params:
-  banner: giammarco-q140lHKzXZY-unsplash.jpg
+  banner: 
     buttonText: Get Started
     subtitle: |-
      (LBS MAM  2023)
@@ -52,10 +52,10 @@ params:
         url: https://www.instagram.com
       - icon: fa-github
         label: GitHub
-        url: https://www.github.com
+        url: https://github.com/sankash7
       - icon: fa-linkedin
         label: LinkedIn
-        url: https://www.linkedin.com
+        url: https://www.linkedin.com/in/sanidhay-kashyap-43a9381b6/
   image: ''
   name: Your name
   navigation:
@@ -84,7 +84,7 @@ params:
         subtitle: Ipsum Dolor Sit Amet
         title: Aliquam
         url: blogs/aliquam
-      - image: pic02.jpg
+      - image: giammarco-q140lHKzXZY-unsplash.jpg
         subtitle: Feugiat Amet Tempus
         title: Tempus
         url: blogs/tempus
