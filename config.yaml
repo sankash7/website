@@ -1,6 +1,6 @@
 baseURL: https://kostis-portfolio.netlify.app/
 languageCode: en-us
-title: Forty
+title: Portfolio Website
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -8,20 +8,19 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Forty
+     (LBS MAM  2023)
+    title: San Kashyap
   blog: {}
   contact:
     address:
-      - city: City, ST 00000
-        country: Country
-        street: Street
+      - city: London
+        country: United Kingdom
+        street: Aldgate
         title: Address
     buttonClear: Clear
     buttonSend: Send message
     email:
-      - email: example@domain.com
+      - email: sankash49@gmail.com
         title: Email
     enable: yes
     phone:
@@ -29,7 +28,9 @@ params:
         title: Phone
   custom_css: []
   custom_js: []
-  description: Your description
+  description:  I am a student studying a Masters in Analytics and Management at London Business School.
+      I have a passion for data analytics and it's use in the world of Financial Markets. Feel free to browse my
+      selection of projects.
   error404:
     heading: Page couldn't be found
     text: Please visit [this page](/)
