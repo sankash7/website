@@ -83,7 +83,7 @@ params:
       - image: pic01.jpg
         subtitle: Ipsum Dolor Sit Amet
         title: Aliquam
-        url: blogs/aliquam
+        url: blogs/first_project
       - image: giammarco-q140lHKzXZY-unsplash.jpg
         subtitle: Feugiat Amet Tempus
         title: Tempus
