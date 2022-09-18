@@ -24,7 +24,7 @@ params:
         title: Email
     enable: yes
     phone:
-      - phone: (000) 000-0000 x1234
+      - phone: +44 7375617754
         title: Phone
   custom_css: []
   custom_js: []
@@ -56,7 +56,7 @@ params:
       - icon: fa-linkedin
         label: LinkedIn
         url: https://www.linkedin.com
-  image: ''
+  image: giammarco-q140lHKzXZY-unsplash.jpg
   name: Your name
   navigation:
     button1:
@@ -75,8 +75,8 @@ params:
       - name: Elements
         url: elements.html
     menu: Menu
-    subtitle: By HTML5 Up
-    title: Forty
+    subtitle: 
+    title: Portfolio Website
   tiles:
     enable: yes
     showcase:
