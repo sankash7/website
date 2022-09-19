@@ -81,7 +81,7 @@ params:
     enable: yes
     showcase:
       - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
+        subtitle: Basic Data Exploration Using R
         title: First Project
         url: blogs/MAM Assignment.Rmd
       - image: giammarco-q140lHKzXZY-unsplash.jpg
@@ -90,8 +90,8 @@ params:
         url: blogs/tempus
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
-        title: Magna
-        url: blogs/magna
+        title: Risk
+        url: blogs/risk_return
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
         title: Ipsum
