@@ -1,4 +1,4 @@
-baseURL: https://kostis-portfolio.netlify.app/
+baseURL: https://sankash.netlify.app
 languageCode: en-us
 title: Portfolio Website
 theme: forty
@@ -91,7 +91,7 @@ params:
       - image: pic03.jpg
         subtitle: Test
         title: Risk
-        url: blogs/risk_return
+        url: blogs/risk_return    #code not working
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
         title: Ipsum
