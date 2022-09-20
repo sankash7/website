@@ -83,13 +83,13 @@ params:
       - image: pic01.jpg
         subtitle: Basic Data Exploration Using R
         title: First Project
-        url: blogs/risk_return
+        url: blogs/
       - image: giammarco-q140lHKzXZY-unsplash.jpg
         subtitle: Feugiat Amet Tempus
         title: Tempus
         url: blogs/tempus
       - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
+        subtitle: Test
         title: Risk
         url: blogs/risk_return
       - image: pic04.jpg
